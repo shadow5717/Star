@@ -1,0 +1,9 @@
+{
+  "name": "stark-improved",
+  "version": "1.0.0",
+  "description": "Versi\u00f3n mejorada (frontend) - usa IndexedDB, reconocimiento de voz, SPA.",
+  "author": "Mejoras autom\u00e1ticas",
+  "scripts": {
+    "start": "Serve static files with a static server"
+  }
+}
